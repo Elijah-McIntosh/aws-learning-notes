@@ -4,6 +4,7 @@ This repository contains my notes as I study for the AWS Cloud Practitioner and 
 
 ## Topics Covered
 - IAM
+- CLI-Cloudshell
 - EC2
 - S3
 - VPC
