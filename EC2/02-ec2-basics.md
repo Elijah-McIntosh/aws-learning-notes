@@ -79,14 +79,13 @@ Bootstrapping
 Configuration Overview:
 
 EC2 Configuration
-|
-|-- Operating System
-|-- CPU and Cores
-|-- RAM
-|-- Storage (EBS / EFS / Instance Store)
-|-- Networking
-|-- Security Groups
-|-- User Data
+- Operating System
+- CPU and Cores
+- RAM
+- Storage (EBS / EFS / Instance Store)
+- Networking
+- Security Groups
+- User Data
 
 ---
 
