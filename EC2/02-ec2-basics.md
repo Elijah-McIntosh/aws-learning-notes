@@ -1,9 +1,3 @@
-EC2 Basics (Introduction)
-
-In this EC2 module, we begin by creating our first website on AWS. This section introduces the core concepts of Amazon EC2 and explains why it is foundational to cloud computing.
-
----
-
 ## What Is Amazon EC2?
 Amazon EC2 stands for Elastic Compute Cloud.
 
